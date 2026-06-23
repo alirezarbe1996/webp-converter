@@ -9,13 +9,16 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@jsquash/webp": "^1.5.0",
+    "browser-image-compression": "^2.0.2",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.40.0",
+    "install": "^0.13.0",
     "next": "16.2.9",
+    "npm": "^11.17.0",
     "react": "19.2.4",
     "react-dom": "19.2.4",
-    "framer-motion": "^12.40.0",
-    "browser-image-compression": "^2.0.2",
-    "tailwind-merge": "^3.6.0",
-    "clsx": "^2.1.1"
+    "tailwind-merge": "^3.6.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
